@@ -1,4 +1,4 @@
-package contents;
+package constants;
 
 /**
  * アプリケーションスコープのパラメータ名を定義するEnumクラス
